@@ -4,7 +4,7 @@ Rucha is a final year M.Tech student in the Department of [Electrical Engineerin
 
 This folder contains the [resume](Rucha_Joshi_MTech_Elec_Apple.pdf), which Rucha used to apply for Apple during the campus placements at IIT Bombay. Rucha has also shared her detailed experience of getting placed in Apple. Her experience is available on the links given below:
 
-* [IIT Bombay Placement Preps - Before Interview || Rucha Joshi - Apple India - Firmware Engineer]
-* [IIT Bombay Placement Preps - During Interview || Rucha Joshi - Apple India - Firmware Engineer]
+* [IIT Bombay Placement Preps || Part I - Before Interview || Rucha Joshi - Apple - Firmware Engineer](https://youtu.be/YGZLY54UCpk)
+* [IIT Bombay Placement Preps || Part II - During Interview || Rucha Joshi - Apple - Firmware Engineer](https://youtu.be/lQlwORjxZW8)
 
 
