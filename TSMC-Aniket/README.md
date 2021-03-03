@@ -4,6 +4,6 @@ Aniket is a final year M.Tech student (2018-21) in the Department of [Mechanical
 
 This folder contains the [resume](Aniket_Adsule_MTech_Mech_TSMC.pdf), which Aniket used to apply for TSMC during the campus placements at IIT Bombay. Aniket has also shared his detailed experience of getting placed in TSMC. His experience is available on the links given below:
 
-* [IIT Bombay Placement Preps || Part I - Before Interview || Akshay Jawale - Eaton - Engineer](https://youtu.be/J7qGmgVGWUM)
-* [IIT Bombay Placement Preps || Part II - During Interview || Akshay Jawale - Eaton - Engineer](https://youtu.be/RB2W6x7F-RE)
+* [IIT Bombay Placement Preps || Part I - Before Interview || Aniket Adsule - TSMC - Data Engineer](https://youtu.be/1dggxjeAd9I)
+* [IIT Bombay Placement Preps || Part II - During Interview || Aniket Adsule - TSMC - Data Engineer](https://youtu.be/s2PqM2jplB8)
 
