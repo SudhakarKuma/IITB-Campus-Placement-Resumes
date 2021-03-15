@@ -4,6 +4,6 @@ Divakar is a final year M.Tech student (2018-21) in the Department of [Electrica
 
 This folder contains the [resume](S_Divakar_Bhat_MTech_Elec_Honda.pdf), which Divakar used to apply for Honda R&D during the campus placements at IIT Bombay. Divakar has also shared his detailed experience of getting placed in Honda R&D. His experience is available on the links given below:
 
-* [IIT Bombay Placement Preps || Part I - Before Interview || Sourabh - Hitachi Japan - Researcher (AI)](https://youtu.be/4wvC5AxnMOQ)
-* [IIT Bombay Placement Preps || Part II - During Interview || Sourabh - Hitachi Japan - Researcher (AI)](https://youtu.be/Q12QVLC5tIE)
+* [IIT Bombay Placement Preps || Part I - Before Interview || Divakar Bhat - Honda R&D - AI Researcher](https://youtu.be/Oi4OeCc_NXI)
+* [IIT Bombay Placement Preps || Part II - During Interview || Divakar Bhat - Honda R&D - AI Researcher](https://youtu.be/66t4haSxtws)
 
